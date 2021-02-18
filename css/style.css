@@ -174,7 +174,7 @@ ul li:last-child {
 
 button {
   padding: 1rem;
-  border-radius: 30px;
+  border-radius: 50px;
   background: var(--link-color);
   text-align: center;
   text-decoration: none;
